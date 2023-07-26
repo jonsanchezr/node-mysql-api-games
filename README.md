@@ -35,10 +35,10 @@ Not defined.
 Jonathan Sanchez Rodriguez - jsanchez.dev1991@gmail.com
 
 ## Screenshot
-[![screenshot-1](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-1.png "screenshot-1")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-1.png "screenshot-1")
+[![screenshot-1](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-1.png "screenshot-1")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-1.png "screenshot-1")
 
-[![screenshot-2](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-2.png "screenshot-2")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-2.png "screenshot-2")
+[![screenshot-2](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-2.png "screenshot-2")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-2.png "screenshot-2")
 
-[![screenshot-3](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-3.png "screenshot-3")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-3.png "screenshot-3")
+[![screenshot-3](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-3.png "screenshot-3")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-3.png "screenshot-3")
 
-[![screenshot-4](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-4.png "screenshot-4")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshot/screenshot-4.png "screenshot-4")
+[![screenshot-4](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-4.png "screenshot-4")](https://raw.githubusercontent.com/jonsanchezr/node-mysql-api-games/main/z-screenshots/screenshot-4.png "screenshot-4")
